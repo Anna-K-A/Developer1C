@@ -402,5 +402,6 @@
 <img src=img/dds.png width=900>
 
 <br/>
-<br/>
+
 [↑ Наверх](#developer-1c)
+
